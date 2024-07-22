@@ -1,0 +1,4 @@
+Ls -tmp
+-t : sort by last modified
+-m : output separted by commas
+-p : write slash after the the filename is the file is directory

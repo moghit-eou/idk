@@ -1,0 +1,13 @@
+git log -5  --format="%H"
+
+git log // it show the entire commit
+
+
+-e : display non printing characters
+%h : it shows smaller hash
+%H : it show a bigger hash ( hash == id ) 
+--format : formatting how the output should be 
+
+
+Git log -1 printing the last commit
+Git log -2 // print the last 2 commit
